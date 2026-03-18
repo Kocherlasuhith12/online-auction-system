@@ -3,7 +3,6 @@
 A full-stack online auction platform built with React, Node.js, Express, and MongoDB.
 
 ## Features
-
 - **User Authentication**: Register, login, and JWT-based authentication
 - **Auction Management**: Create, view, and manage auctions
 - **Real-time Bidding**: Place bids on active auctions
@@ -173,6 +172,6 @@ Babuuu - [GitHub](https://github.com/Kocherlasuhith12)
 
 ## Contact
 
-- Email: kocherlasravan@gmail.com
-- Phone: 9014886099
+- Email: kocherlasravan@gmail.com,suhithsravan@gmail.com
+- Phone: 9014886099,9390352564
 - LinkedIn: [kks-suhith-15522b271](https://linkedin.com/in/kks-suhith-15522b271)
