@@ -280,7 +280,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kocherlasuhith12-181717?style=for-the-badge&logo=github)](https://github.com/Kocherlasuhith12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kks--suhith-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kks-suhith-15522b271)
-[![Email](https://img.shields.io/badge/Email-suhithsravan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhithsravan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kocherlasravan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhithsravan@gmail.com)
 
 <br>
 
