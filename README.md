@@ -274,7 +274,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 **KKS Suhith Sravan Babu**
 
-*B.Tech CSE · SRM Institute of Science and Technology, Trichy*
+*B.Tech CSE · SRM Institute of Science and Technology, Tiruchirapalli*
 
 <br>
 
